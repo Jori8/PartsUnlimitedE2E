@@ -64,5 +64,7 @@ namespace PartsUnlimited.Models
 
         [BindNever]
         public List<OrderDetail> OrderDetails { get; set; }
+
+        /*A code of a very smart method should be here, but I have no time to write it now. Maybe later...*/
     }
 }
